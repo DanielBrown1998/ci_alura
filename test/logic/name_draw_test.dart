@@ -1,6 +1,6 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:secrete_friend_drawer/logic/logic.dart';
+import 'package:ci_alura/logic/logic.dart';
 
 void main() {
   group('NameDrawCubit', () {

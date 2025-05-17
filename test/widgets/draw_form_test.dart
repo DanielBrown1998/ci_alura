@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:secrete_friend_drawer/widgets/draw/draw_form_widget.dart';
-import 'package:secrete_friend_drawer/widgets/dropdown_input_widget.dart';
+import 'package:ci_alura/widgets/draw/draw_form_widget.dart';
+import 'package:ci_alura/widgets/dropdown_input_widget.dart';
 
 void main() {
   group('DrawFormWidget', () {
