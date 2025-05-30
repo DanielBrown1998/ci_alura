@@ -41,7 +41,6 @@ class _HomeFormWidgetState extends State<HomeFormWidget> {
                   ),
                 ),
               ),
-              const SizedBox(height: 24),
               InputWidget(
                 controller: nameController,
                 focusNode: _focus,
