@@ -51,7 +51,6 @@ class _HomeFormWidgetState extends State<HomeFormWidget> {
                   color: AppColors.grey,
                 ),
               ),
-              const SizedBox(height: 25),
               Center(
                 child: SecondaryButtonWidget(
                   key: const Key('add-button'),
