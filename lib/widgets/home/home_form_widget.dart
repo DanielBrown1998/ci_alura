@@ -41,7 +41,6 @@ class _HomeFormWidgetState extends State<HomeFormWidget> {
                   ),
                 ),
               ),
-              const SizedBox(height: 24),
               InputWidget(
                 controller: nameController,
                 focusNode: _focus,
@@ -51,7 +50,6 @@ class _HomeFormWidgetState extends State<HomeFormWidget> {
                   color: AppColors.grey,
                 ),
               ),
-              const SizedBox(height: 24),
               Center(
                 child: SecondaryButtonWidget(
                   key: const Key('add-button'),
